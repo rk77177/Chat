@@ -1,11 +1,3 @@
 {
-  "responses": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john.doe@example.com",
-      "message": "This is a test message"
-    }
-  ],
   "Bol": "kya bolu"
 }
